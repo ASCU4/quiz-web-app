@@ -183,3 +183,4 @@ function restartQuiz() {
   resultScreen.classList.remove("active");
   startScreen.classList.add("active");
 }
+
