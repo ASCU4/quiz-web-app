@@ -184,3 +184,4 @@ function restartQuiz() {
   startScreen.classList.add("active");
 }
 
+
